@@ -17,7 +17,7 @@
 
 // Color presets //
 
-COLOR_GRAY: #999999;                            
+COLOR_GRAY: #999999;
 COLOR_DARK: #2F2F2F;                            // Main color (dark one)
 COLOR_GREEN_DARK: #8EA775;                      // Accent color
 COLOR_GREEN_LIGHT: #8EA775;                     // Accent color #2 (just like first one with slight changes)
@@ -175,7 +175,7 @@ contactsStatusFgOnline: windowActiveTextFg;     // Contacts (and some other) box
 
 photoCropFadeBg: layerBg;                       // "Out-of-bounds" area in photo cropping (avatars etc...)
 photoCropPointFg: COLOR_WHITE;                  // Photo crop "corners" (which you drag to crop photo)
- 
+
 // intro
 introBg: COLOR_DARK;                            // Login screen background
 introTitleFg: windowBoldFg;                     // Login title text

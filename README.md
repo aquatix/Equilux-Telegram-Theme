@@ -1,7 +1,7 @@
 # Equilux Telegram Theme
 A Telegram Desktop theme based on the appearance of "Equilux" GTK theme, forked from Linux-Mint-Y-Dark-Telegram-Theme.
 
-![Example screenshot of the theme](https://shuttereye.org/various/screenshots/20171124_telegram_equilux.png/view/)
+![Example screenshot of the theme](https://shuttereye.org/images/92/92141866616969ce_2000-2000.png)
 
 The theme is loosly based on the appearance of the GTK "Equilux" theme as seen here:
 [Equilux Theme](https://github.com/ddnexus/equilux-theme/blob/equilux-dev/screenshot.png)
